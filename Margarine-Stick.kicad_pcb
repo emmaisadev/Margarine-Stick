@@ -1976,7 +1976,7 @@
   (gr_line (start 251.46 71.12) (end 25.4 71.12) (layer "Edge.Cuts") (width 0.1) (tstamp 44014525-7af4-4ab5-b8a6-f65bbfefc935))
   (gr_line (start 251.46 30.48) (end 251.46 71.12) (layer "Edge.Cuts") (width 0.1) (tstamp a50a8239-ae9c-4edf-9d5e-170d6a325446))
   (gr_line (start 25.4 71.12) (end 25.4 30.48) (layer "Edge.Cuts") (width 0.1) (tstamp daef3dbf-b5e9-467d-8863-c0510edf540e))
-  (gr_text "Butter Clone" (at 241.43 31.96) (layer "F.SilkS") (tstamp 18f1088d-bbd4-4a1d-89ea-93b7d06cc76d)
+  (gr_text "Margarine Stick" (at 241.43 31.96) (layer "F.SilkS") (tstamp 18f1088d-bbd4-4a1d-89ea-93b7d06cc76d)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "2022 - Ava Bevington & Daniel Thorpe" (at 27.35 50.58 90) (layer "F.SilkS") (tstamp d9fc18a4-2013-45be-bef8-cff0d0ca716e)
